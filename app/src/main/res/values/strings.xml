@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">7MinutesWorkOut</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="inicial_treinos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="lista_treinos">
+        <item>Membros Superiores</item>
+        <item>Membros Inferiores</item>
+        <item>Cardiorrespiratório</item>
+        <item>Core</item>
+        <item>Abdêmen</item>
+        <item>Corrida</item>
+        <item>Meditação</item>
+        <item>Murphy</item>
+        <item>Barras</item>
+        <item>Danças</item>
+    </string-array>
+    <string name="title_activity_tela_exercicios">TelaExercicios</string>
+    <string name="title_activity_tela_videos">TelaVideos</string>
+    <string name="title_activity_tela_treino_run">TelaTreinoRun</string>
+</resources>
